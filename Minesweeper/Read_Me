@@ -1,3 +1,6 @@
 %MATLAB Minesweeper ReadMe
 
 %Run the User_Run_File.m to open the GUI. 
+
+%If using a C compiler, run the .c file for a text-based version of the game. More user control exists for
+%the C version than in the MATLAB GUI version.
